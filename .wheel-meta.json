@@ -1,0 +1,22 @@
+{
+  "wheel_id": 870,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-156",
+  "project": "earthmoving-adelaide-myths-ab03a61b987f6ed801c26b265dce783e13a0",
+  "parent_t1_ref": "simplyearthworks-011",
+  "node_role": "buffer",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving adelaide myths",
+  "intended_url": "http://earthmoving-adelaide-myths-ab03a61b987f6ed801c26b265dce783e13a0.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "9c980d79239b7fe6",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/earthmoving-adelaide-simplyearthworks-011/",
+      "anchor": "Earthmoving Adelaide: A Practical Site Brief Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
